@@ -113,12 +113,3 @@ http://localhost:5173
 - A unique `customer_id` is generated for each connection to avoid sandbox conflicts
 
 ---
-
-## Future Improvements
-
-Given more time, I would:
-- Improve UI styling and layout
-- Add loading states and better UX feedback
-- Persist connections securely in a database
-- Add automated tests
-- Handle Finch async data states more robustly
